@@ -1,9 +1,10 @@
-- First-prize Academic Scholarship, 2023.
 
-- Freshman Academic Scholarship, 2022.
+- Outstanding performance in the Master dessertation project, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Outstanding Graduates, 2020.
 
-- First-prize Enterprise Scholarship, 2021.
+- Best Student Award, 2019.
 
-- First-prize Academic Scholarship, 2019.
+- Inspirational Scholarship, 2018.
+
+- National University student Electronic Design Competition Third Prize, 2018.
