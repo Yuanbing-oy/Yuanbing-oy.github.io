@@ -1,12 +1,23 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+#### Conferences
+- <strong>Y. Ouyang</strong>, Y. Luo, R. Ji, D. Wu, D. Wang, X. Wang, H. Wang, and Y. Pan, “Aiot and vr-based technology for robots control in critical safety environments: Challenges and opportunities,” in 2024 IEEE International Conference on Industrial Technology (ICIT). IEEE, 2024, pp. 1–6.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Y. Ouyang</strong>, W. Yang, H. Wang, Y. Pan, X. Guo. “MEGA: A Multimodal EEG-based Visual Fatigue Assessment System,” in IEEE Proceedings of BioCAS 2024. IEEE, 2024, pp. 1–5
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- C. Xu, <strong>Y. Ouyang</strong>, Z. Chen, H. Wang “MEnhancing Respiratory Sound Detection Through Integrated Learning and Dynamic Convolutional Recurrent Neural Networks,” in IEEE Proceedings of BioCAS 2024. IEEE, 2024, pp. 1–5.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+#### journal
 
+- <strong>Y. Ouyang</strong>, Y. Luo, Y. Li, H. Wang, and Y. Pan, “Wearable Fatigue Detection System Based on SSVEP-BCI,” Kongzhi yu Juece/Control and Decision, vol. 39, no. 7, pp. 2414–2420, 2024(In Chinese)
+
+- Y. Luo, S. Sun, Y. Wang, D. Wu, <strong>Y. Ouyang</strong>, Y. Li, and Y. Pan, "Designing a virtual reality-support for the thesis supervision meetings: A case of a Sino-British international university in China," Computers & Education X Real, vol. 3, 100047, 2023. 
+
+
+#### patents
+
+- 欧阳元兵, 王皓, 潘昱杉. 罗亦鸣. 一种基于数据分析的水下目标检测系统及方法 专利号：ZL 2024 1 0842535.7
+- 王艺博, 欧阳元兵, 刘继文. 一种适用于锂电池 SOC 估计的自适应卡尔曼滤波算法 专利号：CN 2024101788025
+- 房银芳, 朱旺, 苏高民, 袁羽, 李伟杰, 潘秋平, 欧阳元兵, 方浩, 顾明. 一体式有源干电极及脑电采集装置 专利号: CN
+219147613 U
+- 房银芳, 朱旺, 苏高民, 袁羽, 李伟杰, 潘秋平, 欧阳元兵, 方浩, 顾明. 多通道脑电信号采集装置 专利号: CN 219147613U
