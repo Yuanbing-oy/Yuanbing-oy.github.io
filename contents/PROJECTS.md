@@ -1,7 +1,7 @@
 
 ####  WORK/INTERNSHIP EXPERIENCE
 
-- Wuhan Guide Infrared Co., Ltd, FPGA Development Engineer, Wuhan, 2023-2023
+- Wuhan Guide Infrared Co., Ltd, FPGA Development Engineer, Wuhan, 2023
 - Jiangsu JITRI Brain-Computer Fusion Intelligence Technology Institute, Embedded Development Engineer, Suzhou, 2021-2023
 - Gaotu Education Technology Co Ltd, Tutoring Instructor, Wuhan, 2020-2021
 

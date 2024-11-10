@@ -10,8 +10,8 @@ He received the B.Sc. degree in Electrical and Information Engineering from Wuha
 #### Education
 Ph.D., Cyberspace Security, Xidian University, 2024—2028 (expected).\
 MRes, Low Carbon Electrical Power and Energy Technology, Xi'an Jiaotong-Liverpool University, 2021-2023.\
-B.E., Electrical and Information Engineering, Wuhan Textile University 2016—2020.\
-B.E., Minor in Business English, Hubei University of Technology, 2018–2020.
+B.E., Electrical and Information Engineering, Wuhan Textile University 2016-2020.\
+B.E., Minor in Business English, Hubei University of Technology, 2018-2020.
 
 #### Research Interests
 Edge Intelligence, Efficient Artificial Intelligence Modelling, Hardware and Software Co-Design, AIoT.
