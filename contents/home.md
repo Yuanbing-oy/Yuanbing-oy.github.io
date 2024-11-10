@@ -4,7 +4,7 @@
 [[Yuanbing-oy]](https://github.com/Yuanbing-oy)
 
 
-He received the B.Sc. degree in Electrical and Information Engineering from Wuhan Textile University, Wuhan, China, in 2020, and the M.Res. degree in Low Carbon Power and Energy Technologies from the University of Liverpool, Liverpool, UK, in 2023. He is currently pursuing a PhD in Cyberspace Security at Xidian University, Xi'an, China.
+He received the B.Sc. degree in Electrical and Information Engineering from Wuhan Textile University, Wuhan, China, in 2020, and the M.Res. degree in Low Carbon Power and Energy Technologies from the University of Liverpool, Liverpool, UK, in 2023. He is currently pursuing a PhD in Cyberspace Security at Xidian University, Xi'an, China. He is also a member of the ACM SIGCHI Xi'an organising committee.
 
 #### Email
 24151111262[at]stu.xidian.edu.cn
