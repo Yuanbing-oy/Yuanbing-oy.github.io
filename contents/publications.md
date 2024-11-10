@@ -3,7 +3,7 @@
 #### Conferences
 - <strong>Y. Ouyang</strong>, Y. Luo, R. Ji, D. Wu, D. Wang, X. Wang, H. Wang, and Y. Pan, “Aiot and vr-based technology for robots control in critical safety environments: Challenges and opportunities,” in 2024 IEEE International Conference on Industrial Technology (ICIT). IEEE, 2024, pp. 1–6.
 
-- <strong>Y. Ouyang</strong>, W. Yang, H. Wang, Y. Pan, X. Guo. “MEGA: A Multimodal EEG-based Visual Fatigue Assessment System,” in IEEE Proceedings of BioCAS 2024. IEEE, 2024, pp. 1–5
+- <strong>Y. Ouyang</strong>, W. Yang, H. Wang, Y. Pan, X. Guo. “MEGA: A Multimodal EEG-based Visual Fatigue Assessment System,” in IEEE Proceedings of BioCAS 2024. IEEE, 2024, pp. 1–5.
 
 - C. Xu, <strong>Y. Ouyang</strong>, Z. Chen, H. Wang “MEnhancing Respiratory Sound Detection Through Integrated Learning and Dynamic Convolutional Recurrent Neural Networks,” in IEEE Proceedings of BioCAS 2024. IEEE, 2024, pp. 1–5.
 
